@@ -1,0 +1,2 @@
+This repository demonstrates a common error in JavaScript: loose comparison in conditional statements. The provided code uses loose comparison (==) which may lead to unexpected behavior if the input type is not exactly as expected.
+The solution showcases how to improve the code by using strict comparison (===) to prevent unexpected behavior when dealing with various input types and values.
